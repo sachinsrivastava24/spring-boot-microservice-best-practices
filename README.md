@@ -46,7 +46,7 @@
 
 ---
 
-### Introduction
+### Introduction.
 
 This project is intended to bring arguably best practices and integrations available for Spring Boot based Microservice
 in a single repository.
